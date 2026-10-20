@@ -1,0 +1,10 @@
+# Generated Godot iOS framework
+GooseRun3D.xcframework/
+
+# Xcode generated files
+DerivedData/
+build/
+*.xcuserstate
+
+# macOS
+.DS_Store
